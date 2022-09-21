@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Alien Robot Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Alien Robot Italic'), url('Alien Robot Italic.woff') format('woff');
+}
+
+h1{
+    font-family: 'Alien Robot Italic';
+    font-weight: bolder;
+    color: azure;
+}
